@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".ListDataActivity2">
+
+    <TextView
+        android:layout_width="174dp"
+        android:layout_height="52dp"
+        android:layout_marginLeft="120dp"
+        android:text="Medicine List"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        />
+
+    <ListView
+        android:id="@+id/listviewID2"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="60dp"
+        android:listSelector="@color/White"
+
+        android:layout_height="wrap_content"
+
+        >
+
+    </ListView>
+
+</RelativeLayout>
