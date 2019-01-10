@@ -19,11 +19,14 @@
             android:id="@+id/edittextID1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
+            android:textSize="25dp"
             android:hint="Medicine Name"
             android:textColorHint="#000000"
             android:textIsSelectable="true"
+            android:lines="5"
+            android:inputType="textCapSentences"
             />
+
     </RelativeLayout>
 
     <RelativeLayout

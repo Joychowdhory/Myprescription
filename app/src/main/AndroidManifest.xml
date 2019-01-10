@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.joychowdhory.homework">
 
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -25,7 +27,27 @@
         <activity android:name=".EditDataActivity1" />
         <activity android:name=".NightAddActivity" />
         <activity android:name=".ListDataActivity2" />
-        <activity android:name=".EditDataActivity2"></activity>
+        <activity android:name=".EditDataActivity2" />
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".MorningAlarmActivity" />
+        <activity android:name=".NoonAlarmActivity" />
+        <activity android:name=".NightAlarmActivity" />
+        <activity android:name=".MainActivity2" />
+
+        <receiver
+            android:name=".MorningAlarm"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name=".NoonAlarm"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name=".NightAlarm"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".MainActivity4"></activity>
     </application>
 
 </manifest>

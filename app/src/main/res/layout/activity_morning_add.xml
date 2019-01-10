@@ -15,16 +15,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-
-        <EditText
-            android:id="@+id/edittextID"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:hint="Medicine Name"
-            android:textColorHint="#000000"
-            android:textIsSelectable="true"
-            />
+       <EditText
+    android:id="@+id/edittextID"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20dp"
+    android:hint="Medicine Name"
+    android:textColorHint="#000000"
+    android:textIsSelectable="true"
+    />
     </RelativeLayout>
 
     <RelativeLayout

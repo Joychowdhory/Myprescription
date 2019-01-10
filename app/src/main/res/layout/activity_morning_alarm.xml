@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MorningAlarmActivity">
+
+
+    <TextView
+        android:id="@+id/textviewID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:text="Good Morning"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TimePicker
+        android:id="@+id/timepickerID"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_marginLeft="45dp">
+
+
+    </TimePicker>
+
+    <Button
+        android:id="@+id/alarmbuttonID"
+        android:layout_width="182dp"
+        android:layout_height="63dp"
+        android:layout_marginLeft="100dp"
+        android:text="set a Alarm" />
+</LinearLayout>
