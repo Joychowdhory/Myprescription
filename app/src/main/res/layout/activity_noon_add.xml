@@ -44,7 +44,9 @@
             android:layout_marginLeft="120dp"
             android:layout_marginTop="70dp"
             android:text="View Data"
-            android:textSize="25dp" />
+            android:textSize="25dp"
+            android:background="#4169E1"
+            />
 
         <Button
             android:id="@+id/addbuttonID1"
@@ -53,7 +55,9 @@
             android:layout_marginTop="70dp"
             android:layout_marginRight="20dp"
             android:text="Add"
-            android:textSize="25dp" />
+            android:textSize="25dp"
+            android:background="#4169E1"
+            />
 
         <TextView
             android:layout_width="wrap_content"
@@ -63,7 +67,8 @@
             android:text="It's Noon"
             android:textColor="#000"
             android:textSize="30dp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            />
 
 
     </RelativeLayout>

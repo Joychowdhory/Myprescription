@@ -5,6 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/background"
+
     tools:context=".NoonAlarmActivity">
 
     <TextView
@@ -12,16 +14,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="110dp"
-        android:text="Good Eveing"
+        android:text="Good Evening"
         android:textColor="#000000"
-        android:textSize="20dp"
+        android:textSize="30dp"
         android:textStyle="bold" />
 
     <TimePicker
         android:id="@+id/timepickerID1"
-        android:layout_width="300dp"
+        android:layout_width="match_parent"
         android:layout_height="400dp"
-        android:layout_marginLeft="45dp">
+        android:paddingTop="25dp"
+        >
 
 
     </TimePicker>
@@ -31,6 +34,9 @@
         android:layout_width="182dp"
         android:layout_height="63dp"
         android:layout_marginLeft="100dp"
-        android:text="set a Alarm" />
+        android:text="set a Alarm"
+
+        android:background="#4169E1"
+        />
 
 </LinearLayout>

@@ -30,6 +30,8 @@
         android:drawableTop="@drawable/morning"
         android:layout_marginTop="30dp"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
+
         />
 
     <Button
@@ -39,6 +41,8 @@
         android:text="NOON"
         android:drawableTop="@drawable/noon"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
+
         />
 
     <Button
@@ -48,6 +52,7 @@
         android:text="NIGHT"
         android:drawableTop="@drawable/night"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
 
         />
 </LinearLayout>

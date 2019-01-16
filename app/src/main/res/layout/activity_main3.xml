@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/background"
     tools:context=".MainActivity3">
 
     <TextView
@@ -28,6 +29,8 @@
         android:drawableTop="@drawable/morning"
         android:layout_marginTop="30dp"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
+
         />
 
     <Button
@@ -37,6 +40,10 @@
         android:text="NOON"
         android:drawableTop="@drawable/noon"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
+        android:layout_marginTop="5dp"
+
+
         />
 
     <Button
@@ -46,6 +53,8 @@
         android:text="NIGHT"
         android:drawableTop="@drawable/night"
         android:layout_marginLeft="70dp"
+        android:background="#4169E1"
+        android:layout_marginTop="5dp"
 
         />
 

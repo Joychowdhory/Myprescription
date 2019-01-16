@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".MainActivity4">
 
     <ScrollView
@@ -22,17 +23,20 @@
 
 
             <Button
+                android:id="@+id/heartID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:background="@color/White"
-                android:text="HEART" />
+                android:text="HEART"
+                android:background="#4169E1"
+
+                />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="61dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Diabetic" />
 
             <Button
@@ -40,7 +44,7 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="121dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Kidney" />
 
             <Button
@@ -48,7 +52,7 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="178dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Allergies" />
 
 
@@ -57,7 +61,7 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="235dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Alzheimer's" />
 
             <Button
@@ -65,16 +69,15 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="295dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Asthma" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="352dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Cancer" />
 
             <Button
@@ -82,7 +85,7 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="406dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Cholesterol" />
 
             <Button
@@ -90,16 +93,15 @@
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="461dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Depression" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
-
                 android:layout_marginTop="461dp"
-                android:background="@color/White"
+                android:background="#4169E1"
                 android:text="Eyesight" />
 
 
