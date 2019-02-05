@@ -92,6 +92,16 @@ public class HomeActivity extends AppCompatActivity {
                     Toast.makeText(HomeActivity.this, "Map",Toast.LENGTH_SHORT).show();
 
                 }
+                else if(id == R.id.setting)
+                {
+                    Toast.makeText(HomeActivity.this, "setting",Toast.LENGTH_SHORT).show();
+
+                }
+                else if(id == R.id.about)
+                {
+                    Toast.makeText(HomeActivity.this, "about us",Toast.LENGTH_SHORT).show();
+
+                }
 
 
                 return true;

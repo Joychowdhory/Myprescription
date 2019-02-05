@@ -18,6 +18,10 @@
         android:title="Setting"
         android:icon="@drawable/setting">
     </item>
-
+    <item
+        android:id="@+id/about"
+        android:title="About us"
+        android:icon="@drawable/setting">
+    </item>
 
 </menu>

@@ -26,83 +26,189 @@
                 android:id="@+id/heartID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:text="HEART"
                 android:background="#4169E1"
-
-                />
+                android:text="HEART Attack"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/diabeticID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="61dp"
                 android:background="#4169E1"
-                android:text="Diabetic" />
+                android:text="Diabetic"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/kidneyID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="121dp"
                 android:background="#4169E1"
-                android:text="Kidney" />
+                android:text="Kidney"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/allergiesID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="178dp"
                 android:background="#4169E1"
-                android:text="Allergies" />
+                android:text="Allergies"
+                android:textStyle="bold" />
 
 
             <Button
+                android:id="@+id/alzheimerID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="235dp"
                 android:background="#4169E1"
-                android:text="Alzheimer's" />
+                android:text="Alzheimer's"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/asthmaID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="295dp"
                 android:background="#4169E1"
-                android:text="Asthma" />
+                android:text="Asthma"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/cancerID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="352dp"
                 android:background="#4169E1"
-                android:text="Cancer" />
+                android:text="Cancer"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/arthritisID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
-                android:layout_marginTop="406dp"
+                android:layout_marginTop="410dp"
                 android:background="#4169E1"
-                android:text="Cholesterol" />
+                android:text="Arthritis"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/eyesightID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
-                android:layout_marginTop="461dp"
+                android:layout_marginTop="465dp"
                 android:background="#4169E1"
-                android:text="Depression" />
+                android:text="Eyesight"
+                android:textStyle="bold" />
 
             <Button
+                android:id="@+id/depressionID"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_alignParentTop="true"
-                android:layout_marginTop="461dp"
+                android:layout_marginTop="520dp"
                 android:background="#4169E1"
-                android:text="Eyesight" />
+                android:text="Depression"
+                android:textStyle="bold"
+
+                />
+
+            <Button
+                android:id="@+id/strokeID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="580dp"
+                android:background="#4169E1"
+                android:text="Stroke"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/tuberculosisID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="640dp"
+                android:background="#4169E1"
+                android:text="Tuberculosis"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/cirrhosisID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="700dp"
+                android:background="#4169E1"
+                android:text="Cirrhosis"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/bloodpressureID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="760dp"
+                android:background="#4169E1"
+                android:text="High Blood Pressure"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/hivID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="820dp"
+                android:background="#4169E1"
+                android:text="HIV"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/infectiousdiseaseID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="880dp"
+                android:background="#4169E1"
+                android:text=" Infectious Disease"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/lungsID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="940dp"
+                android:background="#4169E1"
+                android:text="Lungs"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/liverID"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="1000dp"
+                android:background="#4169E1"
+                android:text="Liver"
+                android:textStyle="bold" />
+
+
+
+
 
 
         </RelativeLayout>

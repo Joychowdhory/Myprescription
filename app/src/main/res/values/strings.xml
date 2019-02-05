@@ -3,4 +3,227 @@
 
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+
+    <string name="heart_text">
+
+         During a heart attack, the blood supply that normally nourishes the heart with oxygen
+         is cut off and the heart muscle begins to die.
+         Heart attacks — also called myocardial infarctions — are very common in the United States.
+         In fact, it’s estimated that one happens every 40 seconds.\n
+         Symptom\n
+        1. chest pain\n
+        2.upper body pain\n
+        3. sweating\n
+         4.nausea\n
+         5.fatigue\n
+         6.trouble breathing\n
+         A heart attack is a serious medical emergency.
+         Seek immediate medical attention if you or someone you know is experiencing symptoms that could signal a heart attack.
+         "Symptoms"\n
+         1.chest pain or discomfort\n
+         2.nausea\n
+         3.sweating\n
+         4.lightheadedness or dizziness\n
+         5.fatigue\n
+
+    </string>
+
+    <string name="diabetic_text">
+
+        The warning signs can be so mild that you don\'t notice them. That\'s especially true of type 2 diabetes.
+        Some people don\'t find out they have it until they get problems from long-term damage caused by the disease.
+        With type 1 diabetes, the symptoms usually happen quickly, in a matter of days or a few weeks.\n
+        Symptoms\n
+        1. Hunger and fatigue\n
+        2. Peeing more often and being thirstier\n
+        3. Dry mouth and itchy skin\n
+        4. Blurred vision\n
+
+
+        Risk factors and prevention\n
+        Risk factors for diabetes include:\n
+        •	excess body weight\n
+        •	high blood pressure\n
+        •	older age\n
+        •	not exercising regularly\n
+        •	an unhealthy diet\n
+        While diabetes isn’t always preventable, you can control the severity of symptoms by exercising regularly and maintaining good nutrition. Adding more fiber to your diet can help with controlling your blood sugar.
+
+    </string>
+
+    <string name="kidney_text">
+
+When you know the symptoms of chronic kidney disease (CKD), you can get treatment and feel your best.
+        CKD symptoms can be subtle. Some people don’t have any symptoms — or don’t think they do.
+        If you have one or more of the 15 symptoms below, or worry about kidney problems, see a doctor for blood and urine tests.\n
+Symptoms\n
+1. Fatigue – being tired all of the time\n
+2. Feeling cold – when others are warm\n
+3. Shortness of breath – after very little effort\n
+4. Feeling faint, dizzy, or weak\n
+5. Trouble thinking clearly\n
+6. Feeling very itchy\n
+7. Swelling in hands or feet\n
+8. Swollen or puffy face\n
+9. Food tastes like metal\n
+10. Ammonia breath\n
+
+    </string>
+
+    <string name="allergies_text">
+Symptom\n
+     •	 Sneezing and an itchy, runny or blocked nose (allergic rhinitis)\n
+•	Itchy, red, watering eyes (conjunctivitis)\n
+•	Wheezing, chest tightness, shortness of breath and a cough\n
+•	A raised, itchy, red rash (hives)\n
+•	Swollen lips, tongue, eyes or face\n
+•	Tummy pain, feeling sick, vomiting. \n
+•	Dry, red and cracked skin.\n
+
+    </string>
+    <string name="alzheimer_text">
+        When you think of Alzheimer’s disease or dementia, you might think of a loss of memory, but you might not think of a loss of life. Alzheimer’s disease is a progressive disease that destroys memory and interrupts normal mental functions. These include thinking, reasoning, and typical behavior.
+Alzheimer’s disease is the most common type of dementia — 60 to 80 percent of dementia cases are in fact Alzheimer’s. The disease starts off by causing mild memory problems, difficulty recalling information, and slips in recollection. Over time, however, the disease progresses and you may not have memory of large periods of time. A 2014 study found that the number of deaths in the United States due to Alzheimer’s may be higher than reported.
+
+Risk factors and prevention\n
+Risk factors for Alzheimer’s disease include:\n
+•	being older than 65\n
+•	a family history of the disease\n
+•	inheriting genes for the disease from your parents\n
+•	existing mild cognitive impairment\n
+•	Down syndrome\n
+•	unhealthy lifestyle\n
+•	being female\n
+•	previous head trauma\n
+•	being shut off from a community or having poor engagement with other people for extended periods of time\n
+
+    </string>
+    <string name="asthma_text">
+
+        Symptom\n•
+        Shortness of breath\n
+•	Chest tightness or pain\n
+•	Trouble sleeping caused by shortness of breath, coughing or wheezing\n
+•	A whistling or wheezing sound when exhaling (wheezing is a common sign of asthma in children)\n
+•	Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu.\n
+
+    </string>
+    <string name="cancer_text">
+        •	Skin changes, such as: \n
+a.	A new mole or a change in an existing mole\n
+b.	A sore that does not heal\n
+•	Breast changes, such as: \n
+a.	Change in size or shape of the breast or nipple\n
+b.	Change in texture of breast skin\n
+•	A thickening or lump on or under the skin\n
+•	Hoarseness or cough that does not go away\n
+•	Changes in bowel habits\n
+•	Difficult or painful urination\n
+•	Problems with eating, such as: \n
+a.	Discomfort after eating\n
+b.	A hard time swallowing\n
+c.	Changes in appetite\n
+•	Weight gain or loss with no known reason\n
+•	Abdominal pain\n
+•	Unexplained night sweats\n
+•	Unusual bleeding or discharge, including: \n
+a.	Blood in the urine\n
+b.	Vaginal bleeding\n
+c.	Blood in the stool\n
+•	Feeling weak or very tired.\n
+
+    </string>
+    <string name="arthritis_text">
+        Symptom\n
+Joint Pain\n
+The most common symptom of arthritis is joint pain, and this is the reason most people seek medical care for their arthritis.
+        The type of pain can vary depending on the type of arthritis and the severity of the condition.
+        Most people who have arthritis describe an aching pain in the joint that is worsened by activity and relieved by rest.
+        The amount of joint pain usually corresponds to the amount of activity. Other common symptoms that people may describe include worsening of pain with activity,
+        worsening mood, and changes in weather.\n
+Joint Swelling\n
+Swelling of a joint can occur with many conditions, but the most common cause of joint swelling is arthritis.
+        The second most common cause of swelling is an injury to the joint. So if no injury has occurred, it is likely that the swelling is due to arthritis.
+        Sometimes laboratory analysis of the fluid itself can help determine if there is arthritis or another cause of joint swelling such as infection or gout.
+        Some lab tests can be performed by checking your blood, while others require a sample of the swollen joint fluid obtained by inserting a needle into the swollen joint.\n
+Deformity of Joints\n
+As joint cartilage is worn away by arthritis, the extremity may take on a deformed appearance.
+        Just as if the tread is worn off your car tires, if enough joint cartilage is worn away, the joint may take on an angled appearance.
+        This is often seen in the hands as crooked fingers.
+        In the knee joint, people with arthritis may develop a knock-kneed or bow-legged appearance.\n
+
+Grinding Sensations\n
+As joint cartilage is worn away, the smooth lining covering the rough bone is lost.
+        When the bone is exposed, the joint may not move smoothly. You may feel or even hear a grinding sensation.
+        Place your hand on the joint as you bend back and forth and feel for a grinding sensation of the joint.\n
+
+Lumps and Bumps Around Joints\n
+Arthritis can cause the formation of pockets of fluid (mucous cysts) or bone spurs. These are felt as knobby protuberances around the joint.
+        They may or may not be sensitive to the touch, but they do give a lumpy appearance to the joint. Most people notice these on the small joints of the fingers
+        , although they can occur throughout the body.\n
+
+Joint Tenderness\n
+Joints that are arthritic are tender to the touch. If one side of the joint is more involved with
+        arthritis than the other, the worse side is usually more tender. Pressing around the joint and having an
+        elicit pain is a reasonable indication that the joint is inflamed, and that it may have underlying arthritis.\n
+
+    </string>
+    <string name="eyesight_text">
+        Symptom\n
+Age-Related Macular Degeneration\n
+Age-related macular degeneration (AMD) is the physical disturbance of the center of the retina called the macula.\n
+Bulging Eyes\n
+Cataracts\n
+Cataracts in Babies:\n
+
+CMV Retinitis\n
+Color Blindness\n
+Crossed Eyes \n
+Diabetic Macular Edema\n
+Eye Floaters and Eye Flashes\n
+Glaucoma\n
+Lazy Eye\n
+Low Vision\n
+
+Ocular Hypertension\n
+Ocular hypertension is an increase in pressure in the eye that is above the range considered normal.\n
+Retinal Detachment\n
+When the retina detaches, light sensitive membrane in the back of the eye becomes separated from the nerve tissue and blood supply underneath it.\n
+Eyelid Twitching\n
+Sometimes your eyelid simply twitches.\n
+
+    </string>
+    <string name="depression_text">
+ Symptoms\n
+Although depression may occur only once during your life, people typically have multiple episodes.
+        During these episodes, symptoms occur most of the day, nearly every day and may include\n
+
+Feelings of sadness, tearfulness, emptiness or hopelessness\n
+Angry outbursts, irritability or frustration, even over small matters\n
+Loss of interest or pleasure in most or all normal activities, such as sex, hobbies or sports\n
+Sleep disturbances, including insomnia or sleeping too much\n
+Tiredness and lack of energy, so even small tasks take extra effort\n
+Reduced appetite and weight loss or increased cravings for food and weight gain\n
+Anxiety, agitation or restlessness\n
+Slowed thinking, speaking or body movements\n
+Feelings of worthlessness or guilt, fixating on past failures or self-blame\n
+Trouble thinking, concentrating, making decisions and remembering things\n
+Frequent or recurrent thoughts of death, suicidal thoughts, suicide attempts or suicide\n
+Unexplained physical problems, such as back pain or headaches\n
+    </string>
+    <string name="stroke_text">
+        Watch for these signs and symptoms if you think you or someone else may be having a stroke.
+        Pay attention to when the signs and symptoms begin.
+        The length of time they have been present can affect your treatment options\n
+        Symptom\n
+
+        Trouble with speaking and understanding\n
+        Paralysis or numbness of the face, arm or leg.\n
+        Trouble with seeing in one or both eyes\n
+        Headache\n
+        Trouble with walking. \n
+
+    </string>
+
 </resources>

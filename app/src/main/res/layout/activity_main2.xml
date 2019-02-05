@@ -20,7 +20,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginRight="50dp"
         android:text="Sir,
-                   I need an appointment tommorow at 5 o clock"
+ I need an appointment tommorow at 5 o clock.Please provide me date and time."
         android:textColor="#000000"
         />
 
@@ -30,6 +30,7 @@
         android:layout_width="350dp"
         android:layout_height="80dp"
         android:hint="your Number"
+
         android:maxLines="10"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
@@ -43,11 +44,13 @@
         android:layout_height="50dp"
         android:layout_marginLeft="100dp"
         android:text="Send"
+        android:background="#4169E1"
+
         android:textSize="20dp"
         android:textStyle="bold"
         android:textAlignment="center"
         android:layout_marginTop="30dp"
-        android:onClick="onsend"
+        android:onClick="onSend"
         />
 
 </LinearLayout>
