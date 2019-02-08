@@ -33,7 +33,7 @@ public class HomeActivity extends AppCompatActivity {
         medicinebuttonID = (Button) findViewById(R.id.medicinebuttonID);
         appointbuttonID = (Button) findViewById(R.id.appointbuttonID);
         alarmbuttonID = (Button) findViewById(R.id.alarmbuttonID);
-        hospitalID = (Button) findViewById(R.id.hospitalID);
+
         symptommbuttonID = (Button) findViewById(R.id.symptommbuttonID);
 
 
@@ -83,14 +83,15 @@ public class HomeActivity extends AppCompatActivity {
                 if(id == R.id.quote)
                 {
                     Toast.makeText(HomeActivity.this, "Quote",Toast.LENGTH_SHORT).show();
-//                    Intent intent = new Intent (HomeActivity.this,MainActivity11.class);
-//                    startActivity(intent);
+                    Intent intent = new Intent (HomeActivity.this,QuoteDetails.class);
+                    startActivity(intent);
 
                 }
                 else if(id == R.id.map)
                 {
                     Toast.makeText(HomeActivity.this, "Map",Toast.LENGTH_SHORT).show();
-
+                    Intent intent = new Intent (HomeActivity.this,MapsActivity.class);
+                    startActivity(intent);
                 }
                 else if(id == R.id.setting)
                 {

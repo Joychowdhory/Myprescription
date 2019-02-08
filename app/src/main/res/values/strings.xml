@@ -225,5 +225,7 @@ Unexplained physical problems, such as back pain or headaches\n
         Trouble with walking. \n
 
     </string>
+    <string name="title_activity_maps">Map</string>
+
 
 </resources>
